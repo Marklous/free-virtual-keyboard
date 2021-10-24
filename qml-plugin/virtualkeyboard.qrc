@@ -1,0 +1,18 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource>
+    <file>qml/InputPanel.qml</file>
+    <file>qml/KeyButton.qml</file>
+    <file>qml/KeyModel.qml</file>
+    <file>qml/KeyPopup.qml</file>
+    <file>qml/KeyboardLayout.qml</file>
+    <file>qml/LanguageDialog.qml</file>
+    <file>qml/NumericLayout.qml</file>
+    <file>qml/qmldir</file>
+    <file>images/backspace.svg</file>
+    <file>images/keyboard_hide.svg</file>
+    <file>images/keyboard_return.svg</file>
+    <file>images/language.svg</file>
+    <file>images/shift.svg</file>
+  </qresource>
+</RCC>
